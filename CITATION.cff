@@ -1,0 +1,8 @@
+cff-version: 1
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Stikvoort
+    given-names: Wiep
+title: MSB1015_Practical_1
+version: 1
+date-released: 2019-09-04
